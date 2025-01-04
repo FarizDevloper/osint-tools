@@ -1,0 +1,72 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+Preamble
+Most software licenses are designed to restrict your ability to share and modify the software. In contrast, the GNU General Public License (GPL) is intended to ensure that free software remains freely available to all users, enabling individuals and organizations to modify, enhance, and distribute the software. This GPL applies to most of the Free Software Foundation's (FSF) software and any other software whose authors commit to using it.
+
+When we refer to free software, we mean freedom (not necessarily price). The GNU General Public License aims to preserve your freedom to distribute copies of free software, modify it, and use it in any way you see fit. This license allows you to freely share and adapt the software, while simultaneously protecting its freedom and preventing proprietary encroachments.
+
+This license is explicitly designed for projects like Open Source Intelligence (OSINT) tools — software that collects, processes, and analyzes publicly available data for security, research, and informational purposes. OSINT plays a critical role in both government and private-sector applications, helping users gather intelligence in a responsible, transparent, and legal manner.
+
+GNU General Public License (GPL) for OSINT Projects
+This software, provided under the GNU General Public License v2, is an open-source OSINT (Open Source Intelligence) tool that allows individuals and organizations to search, collect, and analyze publicly available information from various sources. The software is intended for use in a wide range of applications, including cybersecurity, social research, law enforcement, and business intelligence.
+
+The following rights are granted to users of this software:
+
+1. Copying and Distribution:
+You may copy, distribute, and use this software freely, provided that:
+
+You include a copy of this license in all copies of the software.
+You do not impose additional restrictions beyond those imposed by this license.
+2. Modification:
+You have the right to modify the software, whether to improve performance, add new features, or tailor the software to specific needs. If you distribute modified versions of the software, you must:
+
+Clearly state the modifications made and the date of any changes.
+Ensure the modified version is distributed under the same terms as the original license.
+Provide access to the modified source code.
+3. Distribution of Modified Software:
+When redistributing the software, in its original or modified form, you must:
+
+Include the source code or provide a written offer to distribute the source code for no more than the cost of physically transferring it.
+Ensure that the modified software continues to adhere to the GNU General Public License, keeping the software free for all users.
+4. No Warranty:
+The software is provided "as-is" without any express or implied warranties. While the software is offered in good faith and is intended to function as specified, the developers, including FarizDevloper, are not responsible for any damages resulting from the use, modification, or distribution of the software.
+
+License Compliance and Conditions
+This license is intended to ensure that software remains freely available and modifiable. The following conditions apply to the software distributed under this license:
+
+Source Code: If you distribute the software in executable or object code form, you must either include the source code or offer to provide it to the recipient.
+
+Changes and Attribution: If you modify the software, you must:
+
+Mark the modified files with prominent notices stating that changes have been made.
+Make clear that the modifications are your own and not part of the original codebase.
+No Additional Restrictions: You may not impose any additional licensing or restrictions on the software beyond those stipulated in the GPL. All copies or modified versions of the software must remain open-source and freely available to all users.
+
+Patent Protection
+The GNU General Public License protects users from patent claims that may restrict the free use and modification of the software. Any contributions made to this software are considered to be licensed under the GPL, and contributors are required to ensure that their contributions do not infringe on any patent rights.
+
+License Versions and Updates
+The Free Software Foundation (FSF) may release new versions of the General Public License from time to time. You may choose to follow the terms of the license specified in the program or any later version published by the FSF. If no version is specified, you may choose any version ever published by the FSF.
+
+For any questions regarding the license, or for guidance on how to properly contribute to or modify this software, please contact the project maintainer, FarizDevloper, through official communication channels such as the GitHub repository.
+
+Contribution and Acknowledgments
+This software is a collaborative project. Contributions are welcome and encouraged under the terms of this license. If you wish to contribute code or enhancements to the software, you agree to submit your contributions under the same GNU General Public License terms.
+
+All contributors are required to adhere to the guidelines outlined in the project’s contribution documentation, ensuring that any improvements remain open and freely accessible to everyone.
+
+No Liability
+This software is provided "as-is" without any warranties of any kind. The authors and distributors of this software do not assume any responsibility for any damages that may arise from the use of this software, whether in a professional, academic, or commercial setting. By using this software, you acknowledge that you do so at your own risk.
+
+Contact and Support
+For more information about this OSINT tool or to report any issues, please contact FarizDevloper through the GitHub repository or the official project communication channels. Support is available through open forums, documentation, and direct contact.
+
+Conclusion
+The GNU General Public License ensures that software remains open, free, and accessible to all users, fostering an environment of collaboration and transparency. By using this OSINT tool under the GPL v2, you contribute to the broader open-source ecosystem, empowering individuals and organizations to leverage open-source intelligence in a responsible and ethical manner.
+
+This license applies globally, and all users and contributors are bound by the terms outlined above, ensuring the continued openness and freedom of the software. This project is an open collaboration, encouraging innovation and responsible usage in the domain of Open Source Intelligence (OSINT).
