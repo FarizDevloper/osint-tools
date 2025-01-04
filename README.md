@@ -32,10 +32,6 @@ Target ditemukan: DENI FATMA SARI, 08123xxxx
 Kontribusi 🤝
 Ingin berkontribusi? 🚀
 
-Fork repo ini.
-Clone ke komputer Anda.
-Buat fitur baru atau perbaikan.
-Kirimkan Pull Request.
 Lisensi 📜
 Proyek ini dilisensikan di bawah MIT License. 🎉
 
