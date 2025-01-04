@@ -1,6 +1,9 @@
 Proyek Pencarian Target 📇
 Aplikasi sederhana untuk mencari target berdasarkan Nama atau Nomor Telepon yang terhubung dengan MongoDB. 🎯
-![osint2025](https://github.com/user-attachments/assets/b328d89c-b6b1-4ceb-9ab2-a3384346ecc4)
+
+
+![OSINT](https://github.com/user-attachments/assets/d2ace710-46f3-4abb-a696-bc86079d5441)
+
 
 
 Fitur Utama ✨
