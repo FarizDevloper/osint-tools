@@ -36,7 +36,4 @@ Kirimkan Pull Request.
 Lisensi 📜
 Proyek ini dilisensikan di bawah MIT License. 🎉
 
-Kontak 📧
-Nama: FarizDevloper
-Email: -
-GitHub: https://github.com/FarizDevloper
+
