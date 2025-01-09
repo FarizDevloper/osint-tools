@@ -32,7 +32,12 @@ Target ditemukan: DENI FATMA SARI, 08123xxxx
 Kontribusi 🤝
 Ingin berkontribusi? 🚀
 
-Lisensi 📜
-Proyek ini dilisensikan di bawah MIT License. 🎉
+VIDEO
+
+https://github.com/user-attachments/assets/6e760879-785f-45d1-a639-056922f5de00
+
+
+
+
 
 
