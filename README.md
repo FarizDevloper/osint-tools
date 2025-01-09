@@ -34,7 +34,11 @@ Ingin berkontribusi? 🚀
 
 VIDEO
 
-https://github.com/user-attachments/assets/6e760879-785f-45d1-a639-056922f5de00
+
+
+https://github.com/user-attachments/assets/511aac37-4422-4d15-a785-9219af92f1f6
+
+
 
 
 
