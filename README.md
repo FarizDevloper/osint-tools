@@ -32,6 +32,19 @@ Target ditemukan: DENI FATMA SARI, 08123xxxx
 Kontribusi 🤝
 Ingin berkontribusi? 🚀
 
+
+Disclaimer ⚠️
+Penggunaan Aplikasi Ini:
+Aplikasi ini hanya untuk tujuan pendidikan dan percakapan teknologi. Jangan gunakan aplikasi ini untuk tujuan yang tidak sah, melanggar privasi orang lain, atau tindakan ilegal lainnya.
+
+Data Pengguna:
+Semua data yang digunakan dalam aplikasi ini adalah data dummy. Pastikan Anda tidak menggunakan data pribadi atau informasi sensitif tanpa izin yang sah.
+
+Tanggung Jawab Pengguna:
+Kami tidak bertanggung jawab atas segala bentuk kerugian atau penyalahgunaan yang disebabkan oleh penggunaan aplikasi ini. Pengguna bertanggung jawab penuh atas penggunaan aplikasi sesuai dengan hukum yang berlaku.
+
+
+
 VIDEO
 
 
